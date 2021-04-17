@@ -15,8 +15,8 @@ public class Vehiculo {
             int puertas,
             int velocidadMaxima,
             String nombre,
-            int peso,
             int precio,
+            int peso,
             String traccion,
             Fabricante fabricante)
     {
@@ -24,8 +24,8 @@ public class Vehiculo {
         this.puertas = puertas;
         this.velocidadMaxima = velocidadMaxima;
         this.nombre = nombre;
-        this.peso = peso;
         this.precio = precio;
+        this.peso = peso;
         this.traccion = traccion;
         this.fabricante = fabricante;
 
