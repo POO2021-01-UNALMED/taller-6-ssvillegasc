@@ -24,8 +24,8 @@ public class Vehiculo {
         this.puertas = puertas;
         this.velocidadMaxima = velocidadMaxima;
         this.nombre = nombre;
-        this.peso = precio;
-        this.precio = peso;
+        this.peso = peso;
+        this.precio = precio;
         this.traccion = traccion;
         this.fabricante = fabricante;
 
